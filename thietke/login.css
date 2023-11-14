@@ -1,0 +1,35 @@
+form {
+    /* background-color: aliceblue; */
+    margin-top: 2cm;
+}
+h2 {
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}
+p {
+    margin-bottom: -2px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+    border-radius: 5px;
+    min-height: 1cm;
+    border: 1px solid rgb(158, 155, 155);
+    margin-left: 0.3cm;
+}
+button {
+    max-width: 3.5cm !important;
+    max-height: 40px;
+    margin-left: 0.3cm;
+    margin-top: 1cm !important;
+}
+button a {
+    text-decoration: none;
+    color: aliceblue;
+}
+h3 {
+    color: red;
+    text-align: center;
+}
